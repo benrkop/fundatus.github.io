@@ -1,3 +1,7 @@
+title: FUNdamental Initiative
+email: insertEmail
+description: FUNdamental - towards international consensus on transcranial focused ultrasonic neurostimulation
+
 # Build settings
 sass:
   sass_dir: ./assets/css
