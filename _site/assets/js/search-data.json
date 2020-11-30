@@ -29,60 +29,78 @@
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
   },"5": {
+    "doc": "Bioeffects",
+    "title": "Bioeffects",
+    "content": " ",
+    "url": "http://localhost:4000/documentation/safety/bioeffects.html",
+    "relUrl": "/documentation/safety/bioeffects.html"
+  },"6": {
+    "doc": "Bioeffects",
+    "title": "Introduction to TUS bioeffects",
+    "content": "There are two main safety considerations relevant to TUS, namely thermal and mechanical bioeffects. As ultrasound waves travel through bone and tissue, a portion of the administered mechanical energy is transferred into heat through absorption. At high stimulation intensities, the increase in temperature can be of sufficient magnitude to ablate tissue, as seen in high-intensity focused ultrasound (HIFU). While neuromodulation via TUS employs far lower intensities than HIFU, risks of temperature rise and resultant harmful bioeffects remain extant. Another risk is that of mechanical bioeffects. Here, TUS may cause acoustic cavitation, where small cavities of vapor (or ‘bubbles’) form, oscillate, and then violently collapse, resulting in mechanical damage. It is essential that we can circumvent these harmful bioeffects in TUS for neuromodulation, which involves limiting total acoustic energy absorption and peak negative pressure. ",
+    "url": "http://localhost:4000/documentation/safety/bioeffects.html#introduction-to-tus-bioeffects",
+    "relUrl": "/documentation/safety/bioeffects.html#introduction-to-tus-bioeffects"
+  },"7": {
+    "doc": "Bioeffects",
+    "title": "Guidelines from Regulatory Bodies",
+    "content": "Currently, there are no established and universally recognized guidelines for the safe application of TUS. Nevertheless, guidelines do exist for diagnostic ultrasound, and as such most TUS literature has taken these limits into consideration. It must be noted, however, that the following guidelines from regulatory bodies may be considered conservative and thus are accompanied by a risk of underdosing. Even more importantly, remaining within the following guidelines, or exceeding these guidelines, is not a unwavering guarantee of safety nor a statement of danger. Rather, it is most conducive to participant safety for individualized simulations to be run where the risk of harmful bioeffects can most accurately be gauged. FDA recommendations: it is important to carefully define and justify the ultrasound parameters that are used and how these relate to ultrasound (thermal/mechanical) bioeffects. As part of the ultrasound safety considerations, researchers should provide all relevant acoustic parameters and how they were obtained, e.g., utilize citations. Depending on the type of research that is conducted, one should include simulated, Benchtop, in vivo, or a combination of these data. Always include a physical and/or analytic argument for the used ultrasound parameters. Lastly, ultrasound safety considerations are strongly advised to include “worst case” scenarios. ",
+    "url": "http://localhost:4000/documentation/safety/bioeffects.html#guidelines-from-regulatory-bodies",
+    "relUrl": "/documentation/safety/bioeffects.html#guidelines-from-regulatory-bodies"
+  },"8": {
     "doc": "Contact",
     "title": "Contact",
     "content": ". For questions about our initiative or this website, contact Benjamin Kop. ",
     "url": "http://localhost:4000/contact.html",
     "relUrl": "/contact.html"
-  },"6": {
+  },"9": {
     "doc": "Contraindications",
     "title": "Contraindications",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/safety/contraindications.html",
     "relUrl": "/documentation/safety/contraindications.html"
-  },"7": {
+  },"10": {
     "doc": "Contraindications",
     "title": "Monitoring adverse events",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/safety/contraindications.html#monitoring-adverse-events",
     "relUrl": "/documentation/safety/contraindications.html#monitoring-adverse-events"
-  },"8": {
+  },"11": {
     "doc": "Home",
     "title": "Welcome to FUNdamental!",
     "content": "An international collective working towards a guide for the safe and effective application of transcranial focused ultrasound for neuromodulation. Here, experts come together and delineate best practices, provide guidance for new labs, report on future perspectives, and more! . Get to know us . Our organization . We can consider listing the names of people here. Our repository contributors . ",
     "url": "http://localhost:4000/#welcome-to-fundamental",
     "relUrl": "/#welcome-to-fundamental"
-  },"9": {
+  },"12": {
     "doc": "Home",
     "title": "Home",
     "content": ". ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"10": {
+  },"13": {
     "doc": "Safety",
     "title": "Safety",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/safety/safety.html",
     "relUrl": "/documentation/safety/safety.html"
-  },"11": {
+  },"14": {
     "doc": "Standardized Reporting",
     "title": "Standardized Reporting",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/standardizedReporting.html",
     "relUrl": "/documentation/standardizedReporting.html"
-  },"12": {
+  },"15": {
     "doc": "Standardized Reporting",
     "title": "Stimulation Paradigms",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/standardizedReporting.html#stimulation-paradigms",
     "relUrl": "/documentation/standardizedReporting.html#stimulation-paradigms"
-  },"13": {
+  },"16": {
     "doc": "Standardized Reporting",
     "title": "Transducer Properties",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/standardizedReporting.html#transducer-properties",
     "relUrl": "/documentation/standardizedReporting.html#transducer-properties"
-  },"14": {
+  },"17": {
     "doc": "Standardized Reporting",
     "title": "Simulations",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
