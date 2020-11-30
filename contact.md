@@ -4,4 +4,4 @@ title: Contact
 ---
 ![](../media/ContactUs.png)
 
-For questions about our initiative or this website, please contact [Benjamin Kop](mailto: benjamin.kop@donders.ru.nl).
+For questions about our initiative or this website, contact [Benjamin Kop](mailto: benjamin.kop@donders.ru.nl).
