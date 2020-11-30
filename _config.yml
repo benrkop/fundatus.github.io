@@ -31,7 +31,7 @@ github_username:  fundamentus
 
 # Build settings
 #markdown: kramdown
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 logo: "/media/FundamentalLogo1.png"
