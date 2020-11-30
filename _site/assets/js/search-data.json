@@ -1,44 +1,80 @@
 {"0": {
-    "doc": "The Guide",
+    "doc": "FUNdamental Guide",
     "title": "FUNdamental Guide",
     "content": "Here you will find the guide. should automatically be listed at the bottom. ",
-    "url": "http://localhost:4000/documentation/FundamentalGuide.html#fundamental-guide",
-    "relUrl": "/documentation/FundamentalGuide.html#fundamental-guide"
-  },"1": {
-    "doc": "The Guide",
-    "title": "The Guide",
-    "content": " ",
     "url": "http://localhost:4000/documentation/FundamentalGuide.html",
     "relUrl": "/documentation/FundamentalGuide.html"
-  },"2": {
+  },"1": {
     "doc": "About",
     "title": "Our organization",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/about/#our-organization",
     "relUrl": "/about/#our-organization"
-  },"3": {
+  },"2": {
     "doc": "About",
     "title": "Our purpose",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/about/#our-purpose",
     "relUrl": "/about/#our-purpose"
-  },"4": {
+  },"3": {
     "doc": "About",
     "title": "Our joint effort: diversity, equity, and inclusion",
     "content": "Our mission is to create and maintain guidelines for human ultrasonic neuromodulation to build the strongest possible foundations for research and clinical application. We aim to accelerate these developments by advancing safety, reporting, and reproducibility of research. We can achieve this by working together and sharing our advances. This endeavor is for and by all of us. We strive for a research culture that is open, inclusive, and diverse. We believe all researchers should have equitable access to our resources. We gain strength by welcoming people as they are and we want to value the contribution of every individual. Working together, we can accelerate research and contribute to new discoveries and innovations with real-world applications. A more detailed ‘about’ page is on the way! . ",
     "url": "http://localhost:4000/about/#our-joint-effort-diversity-equity-and-inclusion",
     "relUrl": "/about/#our-joint-effort-diversity-equity-and-inclusion"
-  },"5": {
+  },"4": {
     "doc": "About",
     "title": "About",
     "content": ". ",
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
-  },"6": {
+  },"5": {
     "doc": "Contact",
     "title": "Contact",
     "content": ". For questions about our initiative or this website, please contact Benjamin Kop. ",
     "url": "http://localhost:4000/contact.html",
     "relUrl": "/contact.html"
+  },"6": {
+    "doc": "Contraindications",
+    "title": "Contraindications",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/safety/contraindications.html",
+    "relUrl": "/documentation/safety/contraindications.html"
+  },"7": {
+    "doc": "Contraindications",
+    "title": "Monitoring adverse events",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/safety/contraindications.html#monitoring-adverse-events",
+    "relUrl": "/documentation/safety/contraindications.html#monitoring-adverse-events"
+  },"8": {
+    "doc": "Safety",
+    "title": "Safety",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/safety/safety.html",
+    "relUrl": "/documentation/safety/safety.html"
+  },"9": {
+    "doc": "Standardized Reporting",
+    "title": "Standardized Reporting",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/standardizedReporting.html",
+    "relUrl": "/documentation/standardizedReporting.html"
+  },"10": {
+    "doc": "Standardized Reporting",
+    "title": "Stimulation Paradigms",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/standardizedReporting.html#stimulation-paradigms",
+    "relUrl": "/documentation/standardizedReporting.html#stimulation-paradigms"
+  },"11": {
+    "doc": "Standardized Reporting",
+    "title": "Transducer Properties",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/standardizedReporting.html#transducer-properties",
+    "relUrl": "/documentation/standardizedReporting.html#transducer-properties"
+  },"12": {
+    "doc": "Standardized Reporting",
+    "title": "Simulations",
+    "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
+    "url": "http://localhost:4000/documentation/standardizedReporting.html#simulations",
+    "relUrl": "/documentation/standardizedReporting.html#simulations"
   }
 }

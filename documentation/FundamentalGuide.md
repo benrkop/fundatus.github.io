@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Guide
+title: FUNdamental Guide
 has_children: true
 ---
 
@@ -9,4 +9,4 @@ has_children: true
 Here you will find the guide.
 
 
-Table of contents should automatically be listed at the bottom. 
+Table of contents should automatically be listed at the bottom.
