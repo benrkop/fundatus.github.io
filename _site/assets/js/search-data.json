@@ -47,30 +47,42 @@
     "url": "http://localhost:4000/documentation/safety/contraindications.html#monitoring-adverse-events",
     "relUrl": "/documentation/safety/contraindications.html#monitoring-adverse-events"
   },"8": {
+    "doc": "Home",
+    "title": "Welcome to FUNdamental!",
+    "content": "An international collective working towards a guide for the safe and effective application of transcranial focused ultrasound for neuromodulation. Here, experts come together and delineate best practices, provide guidance for new labs, report on future perspectives, and more! . Get to know us . Our organization . We can consider listing the names of people here. Our repository contributors . ",
+    "url": "http://localhost:4000/#welcome-to-fundamental",
+    "relUrl": "/#welcome-to-fundamental"
+  },"9": {
+    "doc": "Home",
+    "title": "Home",
+    "content": ". ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"10": {
     "doc": "Safety",
     "title": "Safety",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/safety/safety.html",
     "relUrl": "/documentation/safety/safety.html"
-  },"9": {
+  },"11": {
     "doc": "Standardized Reporting",
     "title": "Standardized Reporting",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/standardizedReporting.html",
     "relUrl": "/documentation/standardizedReporting.html"
-  },"10": {
+  },"12": {
     "doc": "Standardized Reporting",
     "title": "Stimulation Paradigms",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/standardizedReporting.html#stimulation-paradigms",
     "relUrl": "/documentation/standardizedReporting.html#stimulation-paradigms"
-  },"11": {
+  },"13": {
     "doc": "Standardized Reporting",
     "title": "Transducer Properties",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
     "url": "http://localhost:4000/documentation/standardizedReporting.html#transducer-properties",
     "relUrl": "/documentation/standardizedReporting.html#transducer-properties"
-  },"12": {
+  },"14": {
     "doc": "Standardized Reporting",
     "title": "Simulations",
     "content": "Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar. ",
