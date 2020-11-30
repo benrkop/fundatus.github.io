@@ -15,4 +15,4 @@ Currently, there are no established and universally recognized guidelines for th
 
 FDA recommendations: it is important to carefully define and justify the ultrasound parameters that are used and how these relate to ultrasound (thermal/mechanical) bioeffects. As part of the ultrasound safety considerations, researchers should provide all relevant acoustic parameters and how they were obtained, e.g., utilize citations. Depending on the type of research that is conducted, one should include simulated, Benchtop, in vivo, or a combination of these data. Always include a physical and/or analytic argument for the used ultrasound parameters. Lastly, ultrasound safety considerations are strongly advised to include “worst case” scenarios.
 
-![](.../media/regulatoryGuidelines.png)
+![](..../media/regulatoryGuidelines.png)
