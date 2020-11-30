@@ -2,6 +2,7 @@
 layout: default
 title: Safety
 parent: FUNdamental Guide
+has_children: true
 ---
 
 # Safety
