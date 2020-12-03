@@ -11,3 +11,7 @@ Here you will find the guide.
 
 
 Table of contents should automatically be listed at the bottom.
+
+*italics*
+**bold** 
+
