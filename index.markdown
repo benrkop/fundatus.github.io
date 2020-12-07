@@ -10,7 +10,7 @@ permalink: /
 ![](./media/Background.png)
 
 # Welcome to FUNdamental
-We are an international collective working together towards the safe and effective application of transcranial focused ultrasound stimulation for neuromodulation. FUNdamental aims to establish consensus on expert guides, guidelines, and standardization for this neuromodulatory technique. Here, experts will come together to delineate best practices, provide guidance for new labs, report on future perspectives, and more.
+We are an international collective working together towards the safe and effective application of transcranial focused ultrasound stimulation for neuromodulation. FUNdamental aims to establish consensus on expert guides, guidelines, and standardization for this neuromodulatory technique. 
 
 *This website is a placeholder for a more developed alternative, and acts as a launching pad for our organization's effort.*
 
