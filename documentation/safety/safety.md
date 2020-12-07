@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Safety
+title: Safety Recommendations
 parent: FUNdamental Guide
 has_children: true
 ---
 
 # Safety
-Ferte in noctem animam meam illustre stelle viam meam. Aspectu illo glorior dum capit nox diem. Cantate vitae canticum, sine dolore acte. Dicite eis quos amabam numquam obliviscar.
+*Purpose: To establish recommendations and guidelines for safety of focused ultrasonic neuromodulation in humans, including contraindications and reporting of adverse events.*
