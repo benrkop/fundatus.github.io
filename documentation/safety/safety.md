@@ -3,6 +3,7 @@ layout: default
 title: Safety Recommendations
 parent: FUNdamental Guide
 has_children: true
+nav_order: 1
 ---
 
 # Safety

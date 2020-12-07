@@ -2,6 +2,7 @@
 layout: default
 title: Standardized Reporting
 parent: FUNdamental Guide
+nav_order: 2
 # has_children: true
 ---
 # Standardized Reporting
