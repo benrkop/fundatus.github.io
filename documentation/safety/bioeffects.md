@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bioeffects
-parent: Safety
+parent: Safety Recommendations
 grand_parent: FUNdamental Guide
 ---
 
